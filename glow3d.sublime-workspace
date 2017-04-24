@@ -1,0 +1,1364 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"file",
+				"filename"
+			],
+			[
+				"physics",
+				"physics_type"
+			],
+			[
+				"type_en",
+				"type_entity_t"
+			],
+			[
+				"call",
+				"callbacks"
+			],
+			[
+				"RENDER",
+				"render_directx"
+			],
+			[
+				"DEPEN",
+				"ENGINE_DEPENDENCIES"
+			],
+			[
+				"SHADER",
+				"SHADER_THIRDPARTIES"
+			],
+			[
+				"load_",
+				"load_rollout"
+			],
+			[
+				"toolbar",
+				"toolbar_t"
+			],
+			[
+				"toolb",
+				"toolbar_t"
+			],
+			[
+				"tabbed",
+				"tabbed_rollouts"
+			],
+			[
+				"TEXT_co",
+				"text_color_hot"
+			],
+			[
+				"text_",
+				"text_color_hot"
+			],
+			[
+				"text_color",
+				"text_color_hot"
+			],
+			[
+				"text_col",
+				"text_color_hot"
+			],
+			[
+				"button_c",
+				"button_color"
+			],
+			[
+				"text_c",
+				"text_color"
+			],
+			[
+				"start",
+				"start_control"
+			],
+			[
+				"seri",
+				"serialization"
+			],
+			[
+				"container",
+				"containter_type"
+			],
+			[
+				"obj",
+				"obj_start"
+			],
+			[
+				"serial",
+				"serialize_prop"
+			],
+			[
+				"base_props",
+				"base_props_current"
+			],
+			[
+				"Ser",
+				"serialize"
+			],
+			[
+				"seria",
+				"serialize"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"strings",
+				"stringstream"
+			],
+			[
+				"type",
+				"typename"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_layouts/default.html",
+			"settings":
+			{
+				"buffer_size": 482,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_config.yml",
+			"settings":
+			{
+				"buffer_size": 1332,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"glow",
+					""
+				],
+				[
+					"glow",
+					"configure"
+				],
+				[
+					"glow",
+					"install"
+				],
+				[
+					"glow",
+					"build project"
+				],
+				[
+					"glow",
+					"run"
+				],
+				[
+					"glow",
+					"cppclean"
+				]
+			],
+			[
+				"glow",
+				""
+			]
+		],
+		[
+			[
+				[
+					"glow",
+					""
+				],
+				[
+					"glow",
+					"configure"
+				],
+				[
+					"glow",
+					"install"
+				],
+				[
+					"glow",
+					"run"
+				],
+				[
+					"glow",
+					"cppclean"
+				]
+			],
+			[
+				"glow",
+				""
+			]
+		],
+		[
+			[
+				[
+					"glow",
+					""
+				],
+				[
+					"glow",
+					"configure"
+				],
+				[
+					"glow",
+					"run"
+				],
+				[
+					"glow",
+					"cppclean"
+				]
+			],
+			[
+				"glow",
+				""
+			]
+		],
+		[
+			[
+				[
+					"glow",
+					""
+				],
+				[
+					"glow",
+					"run"
+				],
+				[
+					"glow",
+					"cppclean"
+				]
+			],
+			[
+				"glow",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 135.0,
+		"last_filter": "format",
+		"selected_items":
+		[
+			[
+				"format",
+				"Clang Format: Format Selection"
+			],
+			[
+				"blame",
+				"Git: Blame"
+			],
+			[
+				"log",
+				"Git: Quick Log Current File"
+			],
+			[
+				"clan",
+				"Clang Format: Format Selection"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"diff",
+				"Git: Diff"
+			],
+			[
+				"clang",
+				"Clang Format: Format Selection"
+			],
+			[
+				"CLAN",
+				"Clang Format: Format Selection"
+			],
+			[
+				"cmake",
+				"Set Syntax: CMake"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Clang Format: Format Selection"
+			],
+			[
+				"clangf",
+				"Clang Format: Format Selection"
+			],
+			[
+				"di",
+				"Git: Diff"
+			],
+			[
+				"git diff",
+				"Git: Diff"
+			],
+			[
+				"forma",
+				"Clang Format: Format Selection"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"form",
+				"Clang Format: Format Selection"
+			],
+			[
+				"brows",
+				"Preferences: Browse Packages"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"sta",
+				"Stackoverflow: Search from Input"
+			],
+			[
+				"stac",
+				"Stackoverflow: Search from Input"
+			],
+			[
+				"git di",
+				"Git: Diff"
+			],
+			[
+				"checkou",
+				"Git: Checkout"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"projects",
+				"Project: Close"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"font",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ctags",
+				"CTags: Show Symbols (all)"
+			],
+			[
+				"clanf",
+				"Clang Format: Select Style"
+			]
+		],
+		"width": 386.0
+	},
+	"console":
+	{
+		"height": 167.0,
+		"history":
+		[
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(true)",
+			"c:\\Apps\\ctags.exe",
+			"/c/Apps/ctags.exe",
+			"\\c\\Apps\\ctags.exe",
+			"c:\\Apps\\ctags.exe",
+			"ctags.exe",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"sublime.log_commands(True)",
+			"cd c:\\\\projects\\\\glow\\\\build\\\\cmake",
+			"cd c:\\projects\\glow\\build\\cmake",
+			"cd c:/projects/glow/build/cmake"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/projects/sites/glow3d.com",
+		"/E/projects/sites/glow3d.com/_includes"
+	],
+	"file_history":
+	[
+		"/E/projects/sites/blog/index.html",
+		"/E/projects/sites/blog/_posts/2017-04-21-pied-piper.md",
+		"/E/projects/sites/blog/_posts/2017-04-20-voxel-project.md",
+		"/E/projects/sites/blog/_posts/2014-12-20-directx-11.md",
+		"/E/projects/sites/blog/_posts/2014-09-24-new-ambient-lighting-implementation.md",
+		"/E/projects/sites/blog/_posts/2014-01-07-iron-cube-0-31.md",
+		"/E/projects/sites/blog/_posts/2013-12-23-one-more-screenshot.md",
+		"/E/projects/sites/blog/_posts/2013-12-16-screenshot-of-iron-cube-editor.md",
+		"/E/projects/sites/blog/_posts/2013-12-02-iron-cube-cinematic-effects.md",
+		"/E/projects/sites/blog/_posts/2013-11-12-intel-perceptual-computing-challenge-stage-2.md",
+		"/E/projects/sites/blog/_posts/2013-10-23-iron-cube-tank-multiplayer-combat-in-voxel-world-is-ported-to-android-and-available-on-google-play-store-for-free.md",
+		"/E/projects/sites/blog/_posts/2013-07-03-iron-cube-pre-alpha-release-0-15.md",
+		"/E/projects/sites/blog/_posts/2013-03-29-new-voxel-based-lighting.md",
+		"/E/projects/sites/blog/_posts/2013-03-28-first-prize-winner-of-intel-perceptual-computing-challenge.md",
+		"/E/projects/sites/blog/_posts/2013-03-05-better-video-of-mercury-prototype.md",
+		"/E/projects/sites/blog/_posts/2013-02-28-why-android-is-better.md",
+		"/E/projects/sites/blog/_posts/2013-02-22-project-mercury.md",
+		"/E/projects/sites/blog/_posts/2013-02-10-rasterization-to-voxels.md",
+		"/E/projects/sites/blog/_posts/2013-01-23-iron-cube-on-android.md",
+		"/E/projects/sites/blog/_posts/2013-01-22-leap-motion-2.md",
+		"/E/projects/sites/blog/_posts/2013-01-16-glow-engine-on-android.md",
+		"/E/projects/sites/blog/_posts/2013-01-02-steam-bigpicture.md",
+		"/E/projects/sites/blog/_posts/2012-12-24-to-create-button-in-cegui.md",
+		"/E/projects/sites/blog/_posts/2012-12-23-leap-motion.md",
+		"/E/projects/sites/blog/_posts/2012-12-11-looks-like-the-trees-from-iron-cube-game-is-real.md",
+		"/E/projects/sites/blog/_posts/2012-12-06-iron-cube.md",
+		"/E/projects/sites/blog/_posts/2012-11-26-still-life-with-a-tank-and-a-tree.md",
+		"/E/projects/sites/blog/_posts/2012-11-23-i-goes-deep-with-my-tank-game.md",
+		"/E/projects/sites/blog/_posts/2012-11-09-greedy-mesh-generation-for-voxel-field.md",
+		"/E/projects/sites/blog/_posts/2012-11-08-ultrabook-from-intel.md",
+		"/E/projects/sites/blog/_posts/2012-12-06-performance-test-of-glow-engine.md",
+		"/E/projects/sites/blog/_layouts/post.html",
+		"/E/projects/sites/blog/assets/css/main.css",
+		"/E/projects/sites/blog/_sass/components/_post.scss",
+		"/E/projects/sites/blog/_includes/analytics.html",
+		"/E/projects/sites/blog/_posts/2011-04-04-color-transformations.md",
+		"/E/projects/sites/blog/_posts/2010-12-01-normal-texture-trick.md",
+		"/E/projects/sites/blog/_posts/2011-01-27-concurrent-scene-graph.md",
+		"/E/projects/sites/blog/_posts/2011-06-16-hdr.md",
+		"/E/projects/sites/blog/_posts/2011-12-01-atmospheric-scattering.md",
+		"/E/projects/sites/blog/_posts/2011-12-02-new-day-new-picture-with-house.md",
+		"/E/projects/sites/blog/_posts/2009-11-01-first-screen-from-my-new-game-little-zombie-susie.md",
+		"/E/projects/sites/blog/_posts/2009-11-30-loading-of-materials.md",
+		"/E/projects/sites/blog/_posts/2009-12-01-memory-management.md",
+		"/E/projects/sites/blog/_posts/2010-09-30-40.md",
+		"/E/projects/sites/blog/_posts/2010-11-05-42.md",
+		"/E/projects/sites/blog/_posts/2010-11-18-big-face-on-landscape.md",
+		"/E/projects/sites/blog/_posts/2010-11-23-auto-reloading-resources.md",
+		"/E/projects/sites/blog/_posts/2010-12-05-update.md",
+		"/E/projects/sites/blog/_posts/2010-12-15-post-processing-pipeline-started.md",
+		"/E/projects/sites/blog/_posts/2011-01-17-memory.md",
+		"/E/projects/sites/blog/_posts/2010-12-30-memory.md",
+		"/E/projects/sites/blog/_posts/2010-08-25-editor-features.md",
+		"/E/projects/sites/blog/_posts/2010-08-05-quaternion.md",
+		"/E/projects/sites/blog/_posts/2010-08-03-editor-ui.md",
+		"/E/projects/sites/blog/_posts/2010-07-07-refactoring.md",
+		"/E/projects/sites/blog/_posts/2010-03-12-streaming.md",
+		"/E/projects/sites/blog/_posts/2010-02-01-water.md",
+		"/E/projects/sites/blog/_posts/2009-12-24-first-horde-tests.md",
+		"/E/projects/sites/blog/_posts/2009-12-17-recast-navigation-steering-behavior-wall-repulse-force.md",
+		"/E/projects/sites/blog/_posts/2009-12-15-simple-steering-behavior.md",
+		"/E/projects/sites/blog/_posts/2009-12-14-simple-optimization.md",
+		"/E/projects/sites/blog/_posts/2009-12-09-lighting-abilities-of-my-engine.md",
+		"/E/projects/sites/blog/_posts/2009-12-07-recast-dynamic-navigation-meshes.md",
+		"/E/projects/sites/blog/_posts/2009-12-24-26.md",
+		"/E/projects/sites/blog/_posts/2009-12-18-25.md",
+		"/E/projects/sites/blog/_posts/2010-02-02-webplayer.md",
+		"/E/projects/sites/blog/_posts/2010-07-28-site.md",
+		"/E/projects/sites/blog/_posts/2011-01-23-hdr.md",
+		"/E/projects/sites/blog/_posts/2011-03-21-npc-with-several-lights.md",
+		"/E/projects/sites/blog/_posts/2011-12-06-finally-water.md",
+		"/E/projects/sites/blog/_posts/2011-12-08-ssao-first-steps.md",
+		"/E/projects/sites/blog/_posts/2011-12-27-cinematic-editor-with-camera-animation.md",
+		"/E/projects/sites/blog/_posts/2011-12-28-new-day-new-feature.md",
+		"/E/projects/sites/blog/_posts/2012-03-20-tarta-game.md",
+		"/E/projects/sites/blog/_posts/2012-05-10-first-opengl-screen.md",
+		"/E/projects/sites/blog/_posts/2012-05-11-one-more-video-with-day-night-loop.md",
+		"/E/projects/sites/blog/_posts/2012-05-11-opengl.md",
+		"/E/projects/sites/blog/_posts/2012-05-23-fishes.md",
+		"/E/projects/sites/blog/_posts/2012-06-02-explosions.md",
+		"/E/projects/sites/blog/_posts/2011-12-22-a-lot-of-new-features-implemented.md",
+		"/E/projects/sites/blog/_posts/2011-12-26-deferred-reflections.md",
+		"/E/projects/sites/blog/_posts/2012-05-25-first-screen-of-voxel-field-update-throw-network.md",
+		"/E/projects/sites/blog/_posts/2012-06-26-the-art8.md",
+		"/E/projects/sites/blog/_posts/2012-06-28-first-iteration-of-grass.md",
+		"/E/projects/sites/blog/_posts/2012-08-14-site-moved-to-amazon-ec2.md",
+		"/E/projects/sites/blog/_posts/2012-08-20-geometry-optimization.md",
+		"/E/projects/sites/blog/_posts/2012-10-22-voxel-landscape-flight.md",
+		"/E/projects/sites/blog/_posts/2012-10-04-google-nacl-build-of-glow-engine.md",
+		"/E/projects/sites/blog/_posts/2012-10-19-model-of-a-tank-for-a-new-game.md",
+		"/E/projects/sites/blog/_posts/2012-10-23-voxelization.md",
+		"/E/projects/sites/blog/_sass/layout/_intro.scss",
+		"/E/projects/sites/blog/assets/js/jquery.min.js",
+		"/E/projects/sites/blog/_posts/2011-03-02-debugging-in-glow-engine.md",
+		"/E/projects/sites/blog/_posts/2011-03-03-just-screen.md",
+		"/E/projects/sites/blog/_posts/2011-03-09-lion-by-glow-engine.md",
+		"/E/projects/sites/blog/_posts/2011-03-10-more-pictures-from-sponza-model.md",
+		"/E/projects/sites/blog/_posts/2010-10-25-editor-status.md",
+		"/E/projects/sites/blog/_posts/2011-01-17-51.md",
+		"/E/projects/sites/blog/_posts/2011-01-23-52.md",
+		"/E/projects/sites/blog/_sass/_reset.scss",
+		"/E/projects/sites/blog/_sass/libs/_skel.scss",
+		"/E/projects/sites/blog/_layouts/default.html",
+		"/E/projects/sites/blog/_sass/main.scss",
+		"/E/projects/sites/blog/assets/js/main.js",
+		"/E/projects/sites/blog/blog.sublime-project",
+		"/E/projects/sites/blog/about.md",
+		"/E/projects/sites/blog/_config.yml",
+		"/E/projects/sites/blog/style.scss",
+		"/E/projects/sites/blog/_posts/2011-11-25-sample-page-2.md",
+		"/E/projects/sites/blog/README.md",
+		"/E/projects/sites/blog/_posts/2017-04-21-voxel-project.md",
+		"/E/projects/sites/future-imperfect-jekyll-theme-master/index.html",
+		"/E/projects/sites/blog/_posts/2012-08-29-C++.md",
+		"/E/projects/sites/blog/_includes/head.html",
+		"/E/projects/sites/blog/Gemfile",
+		"/E/projects/blog/_posts/2013-10-23-iron-cube-tank-multiplayer-combat-in-voxel-world-is-ported-to-android-and-available-on-google-play-store-for-free.md",
+		"/E/projects/blog/_posts/2011-03-21-npc-with-several-lights.md",
+		"/E/projects/blog/index.html",
+		"/E/projects/blog/_posts/2012-11-09-greedy-mesh-generation-for-voxel-field.md",
+		"/E/projects/blog/_posts/2011-11-25-sample-page-2.md",
+		"/E/projects/blog/_posts/2012-08-07-sample-page.md",
+		"/E/projects/blog/_posts/2011-12-08-ssao-first-steps.md",
+		"/E/projects/blog/_posts/2009-08-11-4.md",
+		"/E/projects/blog/_posts/2009-08-12-5.md",
+		"/E/projects/blog/_posts/2009-08-18-dynamic-paths-in-glow-engine.md",
+		"/E/projects/blog/_posts/2009-10-16-explosions-and-weapon-for-zombie.md",
+		"/E/projects/blog/_posts/2009-10-20-recast-navigation-plus-havok-physics-engine.md"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+			"",
+			"E:\\projects\\sites\\blog\\_posts",
+			"",
+			"https://raw.githubusercontent.com/yak32/blog/gh-pages/images/avatar.png",
+			"",
+			"E:\\projects\\sites\\blog\\_posts",
+			"",
+			"E:\\projects\\sites\\blog\\_posts",
+			"E:\\projects\\blog\\_posts",
+			"",
+			"E:\\projects\\blog\\_posts",
+			"E:\\projects\\blog\\posts",
+			"E:\\projects\\blog\\",
+			"E:\\projects\\blog\\_posts",
+			"",
+			"E:\\projects\\blog\\_posts",
+			"",
+			"E:\\projects\\blog\\_posts",
+			"",
+			"E:\\projects\\blog\\_posts",
+			"",
+			"E:\\projects\\blog\\",
+			"E:\\projects\\blog\\_posts",
+			"",
+			"E:\\projects\\glow\\source\\core",
+			"",
+			"E:\\projects\\glow\\source\\user_interface",
+			"*.txt",
+			"",
+			"*.txt",
+			"",
+			"E:\\projects\\glow\\source\\render",
+			"",
+			"E:\\projects\\glow\\source\\core,E:\\projects\\glow\\source\\core\\src\\entities",
+			"E:\\projects\\glow\\source\\core",
+			"",
+			"E:\\projects\\glow\\source\\render",
+			"E:\\projects\\glow\\source\\user_interface",
+			"E:\\projects\\glow\\source\\platform",
+			"",
+			"E:\\projects\\glow\\source\\platform",
+			"",
+			"E:\\projects\\glow\\source\\platform",
+			"",
+			"E:\\projects\\glow\\source\\network",
+			"",
+			"*.TXT, *.cmake",
+			"*.TXT",
+			"",
+			"CmakeLIsts.txt",
+			"CmakeLIstst.txt",
+			"*.txt",
+			"",
+			"<open files>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"analytics",
+			"google",
+			"gogole",
+			"analitics",
+			"www.glow3d.com",
+			"ultrabook from intel",
+			"iron_cube_android/",
+			"a.image.featured",
+			"transform: scale(1.05);",
+			"hover",
+			"image.featu",
+			"entry",
+			"a.image.featured:hover",
+			".post > a.image.featured:hover img {",
+			"ease-out",
+			"easy-out",
+			"<br />",
+			"<br /><br />",
+			"<br />",
+			"<br /><br />",
+			"<br /> <br />",
+			"<span class=\"Apple-tab-span\" style=\"white-space:pre\"></span>",
+			"<span class=\"Apple-tab-span\" style=\"white-space:pre\">    </span>",
+			"span class=\"Apple-tab-span\" style=\"white-space:pre\">     </span>",
+			"<br />",
+			"<span class=\"Apple-tab-span\" style=\"white-space:pre\">   </span>",
+			"<span class=\"Apple-tab-span\" style=\"white-space:pre\">  </span>",
+			"<span class=\"Apple-tab-span\" style=\"white-space:pre\"> </span>",
+			"<br />   <span class=\"Apple-tab-span\" style=\"white-space:pre\"> </span>",
+			"<br />",
+			"style=\"; border-style: initial; border-color: initial; border-image: initial; border-width: 0px;\"",
+			"image featured",
+			"style=\"image featured\"",
+			"width=\"",
+			"style=\"image featured\"",
+			"class=\"image featured\"",
+			"width:",
+			"img style",
+			"img style=",
+			"style=\"",
+			"style=\"margin",
+			"margin-top: 0px; margin-right: 10px; margin-bottom: 10px; margin-left: 0px; border-style: initial; border-color: initial; border-image: initial; border-width: 0px;",
+			" border-style: initial; border-color: initial; border-image: initial; border-width: 0px;",
+			"videoWrapper",
+			"image_featured",
+			"<div class=\"videoWrapper\">\n<div class=\"videoWrapper\">",
+			"</iframe></div>\n</div>",
+			"</iframe>",
+			"<iframe",
+			"iframe",
+			"skel.breakpoints({",
+			"@media screen and (max-width: 1280px)",
+			"@media screen and (max-width: 1280px) {",
+			"#sidebar {",
+			"@media screen and (max-width: 1280px)\nmain.css:3237\n#sidebar {",
+			"#sidebar > * {",
+			"1280px",
+			"sidebar",
+			"@media screen",
+			"@media",
+			"980px",
+			"sidebar",
+			"medium",
+			"\".git\"",
+			"medium",
+			"XLARGE",
+			"medium",
+			"large",
+			"xlarge",
+			"resize",
+			"xlarge",
+			"main",
+			"736",
+			"sample page",
+			"graphics.j",
+			"graphics",
+			"Iron cube",
+			"engine is s",
+			"The site",
+			"twitter",
+			"home",
+			"about",
+			"yet ano",
+			"about",
+			"instagram",
+			"facebook",
+			"twitter",
+			"ablet Galaxy Note 2 with custom launcher (Launcher 8).",
+			"/IMG_5677.jpg",
+			"rc-challenge-banner.jpg",
+			"ron_cube_android.jpg",
+			"GalaxyNote2.jpg",
+			"uploads",
+			"/blog/images/",
+			"entry",
+			"div",
+			"pagination",
+			"div",
+			"max-width:",
+			"New features and fixes",
+			"New features and fixes: ",
+			"base",
+			"site.",
+			"base",
+			"the blog",
+			"work or using phones, connected by Wi-Fi Direc",
+			"{{ site.baseurl }}/images/avatar.jpg",
+			"\"{{ site.baseurl }}/images/avatar.jpg\"",
+			"avatar.jpg",
+			"/images/avatar.png",
+			"/images/avatar.jpg",
+			"/blog/images/avatar.jpg",
+			"avatar.jpg",
+			"/images/avatar.jpg\"",
+			"avatar.jpg",
+			"/blog/images/avatar.jpg",
+			"next\"",
+			"//www.youtu",
+			"avatar.png",
+			"ownload of early alpha is availab",
+			"alignnone size-full wp-image-339",
+			"alignnone size-full wp-image-384",
+			"blog/images/uploads/2013",
+			"revious video was slightly chaotic,",
+			"SCREENSHOT OF IRON CUBE EDITOR",
+			"i am runn",
+			"Jane Doe",
+			"featured"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" ",
+			"",
+			" ",
+			"",
+			"class=\"image featured\"",
+			"style=\"image featured\"",
+			"<div class=\"videoWrapper\">",
+			"</iframe></div>",
+			"<div class=\"videoWrapper\"><iframe",
+			"https://raw.githubusercontent.com/yak32/blog/gh-pages/images/avatar.png",
+			"",
+			"\"{{ site.baseurl }}/images/",
+			"/blog/images/uploads/2013/10/",
+			"blog/images/uploads/2013/10/",
+			"blog/images/uploads/2013/10",
+			"blog/images",
+			"\"//www.youtube.com",
+			"//www.youtube.com",
+			"/blog/",
+			"{{ site.baseurl }}/images/",
+			"/blog/images/",
+			"\\n* ",
+			"* ",
+			" ",
+			". ",
+			".",
+			">",
+			"",
+			"<",
+			"",
+			">",
+			"<",
+			"",
+			"/images",
+			"",
+			"#include \"ui.h\"",
+			"default_assets/engine_shaders",
+			"default_assets/textures",
+			"default_assets/engine_shaders",
+			"default_assets/",
+			"project/",
+			"default_assets/",
+			"default_assets",
+			"_light_type",
+			"_script->get_scene_types()->",
+			"TYPE_ENTITY",
+			"TYPE_",
+			"",
+			"_tasks_exists",
+			"",
+			"_shader->get_renderer()",
+			"_shader",
+			"_manager_material->",
+			"ManagerPixelProgram& mng = *_manager_pixel_program;",
+			"_renderer",
+			"_view->",
+			"_renderer",
+			"_view->",
+			"_renderer",
+			"_manager_texture->",
+			"_ui",
+			"_server_module.",
+			"_server_module",
+			"",
+			"RenderCore::",
+			"get_thread_pool",
+			"_stop",
+			"_condition",
+			"_tasks",
+			"_workers",
+			"_queue_mutex",
+			"",
+			"LINK_LIBS",
+			"SHADER_RENDERER",
+			"ADD_SUBDIRECTORY(source/",
+			"",
+			"ENGINE_LINK_LIBRARIES",
+			"CORE_LINK_LIBRARIES",
+			"GLOW_MONOLITH",
+			"Rollouts",
+			"Toolbar",
+			"Rollouts",
+			"Toolbar",
+			"",
+			"tabs",
+			"rollouts_t",
+			"Rollout* r",
+			"insert_rollout",
+			"m_scroll_bottom",
+			"m_scroll_top",
+			"g_scroll_top",
+			"m_inside_scroll_area",
+			"m_scroll_id",
+			"m_focus_bottom\nm_scroll_id",
+			"m_scroll_id\ng_focus_bottom",
+			"m_focus_bottom\ng_focus_bottom",
+			"g_focus_bottom",
+			"m_focus_top",
+			"m_scroll_val",
+			"m_scroll_area_top",
+			"m_scroll_right",
+			"start_control(enabled, ",
+			"uint",
+			"button_collapse",
+			"double_left_released",
+			"detach_tabbed_rollout",
+			"is_item_focused",
+			"m_\\L$1_\\L$2",
+			"m_\\L$1\\L$2",
+			"m_/L$1_/L$2",
+			"nullptr",
+			"add_",
+			"search_rollout_node",
+			"r->options",
+			"new",
+			"new ",
+			"m_text_pool",
+			"m_text_pool_size",
+			"",
+			"r.options",
+			"m_\\L$1_\\L$2\\L$3_\\L$4",
+			"m_\\L$1_\\L$2_\\L$3\\L$4",
+			"m_rollout_\\L$1",
+			"m_padding_\\L$1",
+			"m_rollout_last",
+			"m_widget_id",
+			"m_area_id",
+			"m_rollout_left"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_layouts/default.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 482,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								434,
+								434
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_config.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1332,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1332,
+								1332
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 779.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 226.0
+	},
+	"output.find_results":
+	{
+		"height": 157.0
+	},
+	"pinned_build_system": "glow3d.com",
+	"project": "glow3d.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"default",
+				"_layouts\\default.html"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"isou",
+				"source\\sound\\api\\isound.h"
+			],
+			[
+				"inetw",
+				"source\\network\\api\\inetwork.h"
+			],
+			[
+				"iai",
+				"source\\ai\\api\\iai.h"
+			],
+			[
+				"types.h",
+				"source\\kernel\\api\\types.h"
+			],
+			[
+				"engine_json",
+				"source\\core\\src\\serialization\\engine_json.cpp"
+			],
+			[
+				"engine_j",
+				"source\\core\\src\\serialization\\engine_json.h"
+			],
+			[
+				"propert",
+				"source\\kernel\\api\\property_list.h"
+			],
+			[
+				"manager_proj",
+				"source\\editor\\src\\manager_project.h"
+			],
+			[
+				"glw_js",
+				"source\\glw_json.h"
+			],
+			[
+				"ngine_js",
+				"source\\core\\src\\serialization\\engine_json.h"
+			],
+			[
+				"manager_pro",
+				"source\\editor\\src\\manager_project.cpp"
+			],
+			[
+				"thread_pool",
+				"source\\kernel\\api\\thread_pool.h"
+			],
+			[
+				"thread_po",
+				"source\\kernel\\src\\thread_pool.cpp"
+			],
+			[
+				"thread_poo",
+				"source\\kernel\\api\\thread_pool.h"
+			],
+			[
+				"type_land",
+				"source\\core\\api\\type_landscape.h"
+			],
+			[
+				"type_en",
+				"source\\core\\api\\type_entity.h"
+			],
+			[
+				"type_p",
+				"source\\physics_bullet\\api\\type_physics.h"
+			],
+			[
+				"view_lig",
+				"source\\render\\src\\view_entity\\light.h"
+			],
+			[
+				"view.h",
+				"source\\render\\src\\view.h"
+			],
+			[
+				"view_land",
+				"source\\render\\src\\view_entity\\landscape.h"
+			],
+			[
+				"view_en",
+				"source\\render\\src\\view_entity\\view_entity.h"
+			],
+			[
+				"type_physi",
+				"source\\physics_bullet\\api\\type_physics.h"
+			],
+			[
+				"script",
+				"source\\core\\src\\script\\script_lua.cpp"
+			],
+			[
+				"manager_scene",
+				"source\\core\\src\\manager\\manager_scene.h"
+			],
+			[
+				"deferred",
+				"source\\render\\src\\deferred_shader.h"
+			],
+			[
+				"script_lua",
+				"source\\core\\src\\script\\script_lua.cpp"
+			],
+			[
+				"script_l",
+				"thirdparty_cmake\\bullet_emscripten\\Extras\\glui\\glui_list.cpp"
+			],
+			[
+				"world.",
+				"source\\core\\src\\core\\world.h"
+			],
+			[
+				"manager_s",
+				"source\\core\\src\\manager\\manager_scene.h"
+			],
+			[
+				"type_scene",
+				"source\\core\\api\\type_scene.h"
+			],
+			[
+				"type_base",
+				"source\\kernel\\api\\type_base.h"
+			],
+			[
+				"engine",
+				"source\\core\\src\\serialization\\engine_json.h"
+			],
+			[
+				"engn",
+				"source\\core\\src\\serialization\\engine_json.h"
+			],
+			[
+				"engine_js",
+				"source\\core\\src\\serialization\\engine_json.h"
+			],
+			[
+				"cmn",
+				"source\\kernel\\api\\cmn_defs.h"
+			],
+			[
+				"cmn_de",
+				"source\\kernel\\api\\cmn_defs.h"
+			],
+			[
+				"type_entity",
+				"source\\core\\api\\type_entity.h"
+			],
+			[
+				"scene.",
+				"source\\core\\src\\manager\\manager_scene.cpp"
+			],
+			[
+				"scene.cpp",
+				"source\\editor\\src\\property_scene.cpp"
+			],
+			[
+				"thread_p",
+				"source\\kernel\\src\\thread_pool.cpp"
+			],
+			[
+				"core_conte",
+				"source\\core\\src\\core\\core_context.h"
+			],
+			[
+				"bit_s",
+				"source\\kernel\\api\\bit_stream.h"
+			],
+			[
+				"clientmodu",
+				"source\\network\\src\\client_module.cpp"
+			],
+			[
+				"convex",
+				"source\\kernel\\api\\convex_hull.h"
+			],
+			[
+				"rendercore",
+				"source\\render\\src\\render_core.cpp"
+			],
+			[
+				"core.",
+				"source\\render\\src\\core.h"
+			],
+			[
+				"glw_json",
+				"source\\core\\serialization\\glw_json.h"
+			],
+			[
+				"serializ",
+				"include\\kernel\\serialization.h"
+			],
+			[
+				"core.cpp",
+				"source\\core\\core\\core.cpp"
+			],
+			[
+				"json",
+				"source\\core\\serialization\\json.h"
+			],
+			[
+				"type_ai",
+				"include\\types\\type_ai.h"
+			],
+			[
+				"params.h",
+				"include\\kernel\\params.h"
+			],
+			[
+				"params",
+				"include\\kernel\\params.h"
+			],
+			[
+				"type_a",
+				"include\\types\\type_ai.h"
+			],
+			[
+				"params.",
+				"include\\kernel\\params.h"
+			],
+			[
+				"cmakel",
+				"build\\CMakeLists.txt"
+			],
+			[
+				"json.cpp",
+				"source\\core\\serialization\\json.cpp"
+			],
+			[
+				"cscriptl",
+				"source\\core\\script\\script_lua.cpp"
+			],
+			[
+				"game_para",
+				"projects\\voxel_game\\game_params.h"
+			],
+			[
+				"param",
+				"source\\kernel\\params.cpp"
+			],
+			[
+				"game_param",
+				"projects\\voxel_game\\game_params.h"
+			],
+			[
+				"par",
+				"include\\kernel\\params.h"
+			],
+			[
+				"types.",
+				"include\\kernel\\types.h"
+			],
+			[
+				"type_ser",
+				"source\\core\\type_serialization.h"
+			],
+			[
+				"membu",
+				"source\\kernel\\memory_buffer.h"
+			],
+			[
+				"type_ini",
+				"source\\core\\type_serialization.h"
+			],
+			[
+				"type_seri",
+				"source\\core\\type_serialization.h"
+			],
+			[
+				"scene",
+				"include\\types\\type_scene.h"
+			],
+			[
+				"cmakelists",
+				"projects\\voxel_game\\CMakeLists.txt"
+			],
+			[
+				"quad_tr",
+				"include\\kernel\\quad_tree.h"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"E:\\projects\\glow3d.com\\glow3d.sublime-workspace"
+			]
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 469.0,
+		"last_filter": "vec3",
+		"selected_items":
+		[
+			[
+				"vec3",
+				"vec3"
+			],
+			[
+				"json_load",
+				"json_load_types"
+			],
+			[
+				"json_save",
+				"json_save_types"
+			],
+			[
+				"json_",
+				"json_load_types"
+			],
+			[
+				"type_base",
+				"type_base_t"
+			],
+			[
+				"JSON",
+				"JSON_SaveTypes"
+			]
+		],
+		"width": 1224.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 413.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
