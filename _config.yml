@@ -6,7 +6,7 @@ title: Glow3D
 description: |
   Lightweigh, cross-platform
   compact game engine
-  crafted by @yak32 (https://twitter.com/yak32)
+  crafted by Yakov @yak32 (https://twitter.com/yak32)
 owner: yak32 # or company name
 first_published: 2016 # if migrating another site, the year of your first publish
 email: your-email@domain.com
@@ -60,3 +60,8 @@ google_analytics: UA-97733057-1
 markdown: kramdown
 #sass:
 #  style: compressed
+
+# Use the following plug-ins
+gems:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
