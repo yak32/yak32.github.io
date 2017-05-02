@@ -138,11 +138,13 @@
 			}
 		},
 		{
-			"file": "robots.txt",
+			"contents": "Searching 46 files for \"lightwe\"\n\nE:\\projects\\sites\\glow3d.com\\_config.yml:\n    5  title: Glow3D\n    6  description: |\n    7:   Lightweigh, cross-platform\n    8    compact game engine\n    9    crafted by Yakov @yak32 (https://twitter.com/yak32)\n\nE:\\projects\\sites\\glow3d.com\\js\\ie\\backgroundsize.min.htc:\n    1: <component lightWeight=\"true\">\n    2  <attach event=\"onpropertychange\" onevent=\"handlePropertychange()\" />\n    3  <attach event=\"ondetach\" onevent=\"restore()\" />\n\n2 matches across 2 files\n\n\nSearching 46 files for \"cross-pla\"\n\nE:\\projects\\sites\\glow3d.com\\_config.yml:\n    5  title: Glow3D\n    6  description: |\n    7:   Lightweight, cross-platform\n    8    compact game engine,\n    9    crafted by Yakov @yak32 (https://twitter.com/yak32)\n\nE:\\projects\\sites\\glow3d.com\\index.html:\n   18  \t\t\t\t\t\t<div class=\"inner\">\n   19  \t\t\t\t\t\t\t<header class=\"major\">\n   20: \t\t\t\t\t\t\t\t<h2>Fully functional, cross-platform engine, written in C++</h2>\n   21  \t\t\t\t\t\t\t\t<p></p>\n   22  \t\t\t\t\t\t\t</header>\n\n2 matches across 2 files\n\n\nSearching 46 files for \"to edit\"\n\nE:\\projects\\sites\\glow3d.com\\index.html:\n   67  \t\t\t\t\t\t\t\t<li class=\"icon fa-laptop\"><a href=\"https://www.youtube.com/watch?v=EzSByIMRiJk\">\n   68  \t\t\t\t\t\t\t\t\t<h3>Intel Perceptual Computing Challenge, 2013.</h3>\n   69: \t\t\t\t\t\t\t\t\t<p>1st Place. Demo application to edit 3d surface by hands using\n   70  Intel RealSense 3D Video + Depth Camera.</p></a>\n   71  \t\t\t\t\t\t\t\t</li>\n\n1 match in 1 file\n\n\nSearching 46 files for \"completel\"\n\nE:\\projects\\sites\\glow3d.com\\index.html:\n   72  \t\t\t\t\t\t\t\t<li class=\"icon fa-code\"><a href=\"https://play.google.com/store/apps/details?id=com.glow3d.ironcube&hl=en\">\n   73  \t\t\t\t\t\t\t\t\t<h3>Iron Cube</h3>\n   74: \t\t\t\t\t\t\t\t\t<p>Voxel Tank game (alpha), released on Google Play Market. 35 000 downloads. Multiplayer tank game in completely destructible voxel world!</p></a>\n   75  \t\t\t\t\t\t\t\t</li>\n   76  \t\t\t\t\t\t\t\t<li class=\"icon fa-headphones\"><a href=\"https://www.youtube.com/watch?v=vhlBdYBUnqE\">\n\n1 match in 1 file\n\n\nSearching 46 files for \"Game is ab\"\n\nE:\\projects\\sites\\glow3d.com\\index.html:\n   80  \t\t\t\t\t\t\t\t<li class=\"icon fa-heart-o\"><a href=\"https://www.youtube.com/watch?v=2kNcj3zVupY\">\n   81  \t\t\t\t\t\t\t\t\t<h3>Little Zombie Susie</h3>\n   82: \t\t\t\t\t\t\t\t\t<p>Game is about family of zombies trying to survive in our human world. You play little zombie-girl Susie, helping her parents and little brother find a medicine against their disease, fighting with humans, solving puzzles.</p></a>\n   83  \t\t\t\t\t\t\t\t</li>\n   84  \t\t\t\t\t\t\t\t<li class=\"icon fa-flag-o\"><a href=\"https://www.youtube.com/watch?v=EzSByIMRiJk\">\n\n1 match in 1 file\n\n\nSearching 47 files for \"FIRST PLACE\"\n\n0 matches\n\nSearching 47 files for \"First place\"\n\n0 matches",
 			"settings":
 			{
-				"buffer_size": 151,
-				"line_ending": "Windows"
+				"buffer_size": 2685,
+				"line_ending": "Windows",
+				"name": "Find Results",
+				"scratch": true
 			}
 		},
 		{
@@ -157,7 +159,7 @@
 			"file": "_config.yml",
 			"settings":
 			{
-				"buffer_size": 1523,
+				"buffer_size": 1525,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -175,7 +177,16 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 5278,
+				"buffer_size": 5350,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "CNAME",
+			"settings":
+			{
+				"buffer_size": 11,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -459,7 +470,6 @@
 	"expanded_folders":
 	[
 		"/E/projects/sites/glow3d.com",
-		"/E/projects/sites/glow3d.com/_includes",
 		"/E/projects/sites/glow3d.com/_layouts"
 	],
 	"file_history":
@@ -664,6 +674,13 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"First place",
+			"FIRST PLACE",
+			"Game is ab",
+			"completel",
+			"to edit",
+			"cross-pla",
+			"lightwe",
 			"site.name",
 			"Content-Type",
 			"head.html",
@@ -784,14 +801,7 @@
 			"/blog/images/avatar.jpg",
 			"avatar.jpg",
 			"/images/avatar.jpg\"",
-			"avatar.jpg",
-			"/blog/images/avatar.jpg",
-			"next\"",
-			"//www.youtu",
-			"avatar.png",
-			"ownload of early alpha is availab",
-			"alignnone size-full wp-image-339",
-			"alignnone size-full wp-image-384"
+			"avatar.jpg"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -967,7 +977,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 6,
 					"type": "text"
 				},
 				{
@@ -997,32 +1007,75 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "robots.txt",
-					"semi_transient": true,
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 151,
+						"buffer_size": 2685,
 						"regions":
 						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										128,
+										135
+									],
+									[
+										323,
+										330
+									],
+									[
+										645,
+										654
+									],
+									[
+										900,
+										909
+									],
+									[
+										1306,
+										1313
+									],
+									[
+										1792,
+										1801
+									],
+									[
+										2220,
+										2230
+									]
+								],
+								"scope": ""
+							}
 						},
 						"selection":
 						[
 							[
-								151,
-								151
+								2638,
+								2638
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"default_dir": "E:\\projects\\sites\\glow3d.com",
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 7,
+							"result_base_dir": "",
+							"result_file_regex": "^([^ \t].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1851.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -1053,7 +1106,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
@@ -1062,15 +1115,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1523,
+						"buffer_size": 1525,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								145,
-								173
+								70,
+								70
 							]
 						],
 						"settings":
@@ -1080,10 +1133,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1008.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
@@ -1112,7 +1165,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 6,
+					"stack_index": 7,
 					"type": "text"
 				},
 				{
@@ -1121,15 +1174,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 5278,
+						"buffer_size": 5350,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								557,
-								557
+								3686,
+								3686
 							]
 						],
 						"settings":
@@ -1138,10 +1191,38 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
+						"translation.y": 1855.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "CNAME",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11,
+								11
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -1544,7 +1625,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 147.0,
+	"side_bar_width": 240.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
