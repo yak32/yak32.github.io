@@ -165,14 +165,6 @@
 			}
 		},
 		{
-			"file": "_site/sitemap.xml",
-			"settings":
-			{
-				"buffer_size": 451,
-				"line_ending": "Windows"
-			}
-		},
-		{
 			"file": "_config.yml",
 			"settings":
 			{
@@ -486,13 +478,11 @@
 	},
 	"expanded_folders":
 	[
-		"/E/projects/sites/glow3d.com",
-		"/E/projects/sites/glow3d.com/_includes",
-		"/E/projects/sites/glow3d.com/_layouts",
-		"/E/projects/sites/glow3d.com/_posts"
+		"/C/projects/sites/yak32.github.io"
 	],
 	"file_history":
 	[
+		"/E/projects/sites/yak32.github.io/_site/sitemap.xml",
 		"/E/projects/sites/glow3d.com/CNAME",
 		"/E/projects/sites/glow3d.com/robots.txt",
 		"/E/projects/sites/blog/index.html",
@@ -619,12 +609,11 @@
 		"/E/projects/blog/_posts/2012-08-07-sample-page.md",
 		"/E/projects/blog/_posts/2011-12-08-ssao-first-steps.md",
 		"/E/projects/blog/_posts/2009-08-11-4.md",
-		"/E/projects/blog/_posts/2009-08-12-5.md",
-		"/E/projects/blog/_posts/2009-08-18-dynamic-paths-in-glow-engine.md"
+		"/E/projects/blog/_posts/2009-08-12-5.md"
 	],
 	"find":
 	{
-		"height": 42.0
+		"height": 31.0
 	},
 	"find_in_files":
 	{
@@ -966,7 +955,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 7,
 			"sheets":
 			[
 				{
@@ -996,7 +985,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 8,
+					"stack_index": 7,
 					"type": "text"
 				},
 				{
@@ -1026,7 +1015,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 7,
+					"stack_index": 6,
 					"type": "text"
 				},
 				{
@@ -1134,10 +1123,10 @@
 							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 5778.0,
+						"translation.y": 4247.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
@@ -1196,39 +1185,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "_site/sitemap.xml",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 451,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								425,
-								425
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/XML/XML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
 					"stack_index": 2,
 					"type": "text"
 				},
 				{
-					"buffer": 6,
+					"buffer": 5,
 					"file": "_config.yml",
 					"semi_transient": false,
 					"settings":
@@ -1254,11 +1215,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 6,
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
-					"buffer": 7,
+					"buffer": 6,
 					"file": "glow3d.sublime-project",
 					"semi_transient": false,
 					"settings":
@@ -1283,11 +1244,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 9,
+					"stack_index": 8,
 					"type": "text"
 				},
 				{
-					"buffer": 8,
+					"buffer": 7,
 					"file": "index.html",
 					"semi_transient": false,
 					"settings":
@@ -1299,8 +1260,8 @@
 						"selection":
 						[
 							[
-								251,
-								251
+								48,
+								48
 							]
 						],
 						"settings":
@@ -1312,11 +1273,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
-					"buffer": 9,
+					"buffer": 8,
 					"file": "robots.txt",
 					"semi_transient": false,
 					"settings":
@@ -1348,7 +1309,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 32.0
+		"height": 31.0
 	},
 	"input":
 	{
@@ -1389,7 +1350,7 @@
 	"project": "glow3d.sublime-project",
 	"replace":
 	{
-		"height": 60.0
+		"height": 58.0
 	},
 	"save_all_on_build": true,
 	"select_file":
